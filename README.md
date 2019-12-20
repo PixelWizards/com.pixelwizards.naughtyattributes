@@ -1,6 +1,10 @@
 # NaughtyAttributes
 NaughtyAttributes is an extension for the Unity Inspector.
 
+Originally from here: https://github.com/PixelWizards/NaughtyAttributes
+
+Restructured into Unity Package Manager structure. 
+
 It expands the range of attributes that Unity provides so that you can create powerful inspectors without the need of custom editors or property drawers. It also provides attributes that can be applied to non-serialized fields or functions.
 
 It is implemented by replacing the default Unity Inspector. This means that if you have any custom editors, NaughtyAttributes will not work with them. All of your custom editors and property drawers are not affected in any way.
@@ -8,7 +12,7 @@ It is implemented by replacing the default Unity Inspector. This means that if y
 ## Usage
 Load into your Unity project via the Package Manager window (via a Git URL) or by adding the following into your project manifest:
 
-
+"com.pixelwizards.naughtyattributes": "https://github.com/PixelWizards/com.pixelwizards.naughtyattributes.git",
 
 ## System Requirements
 Note: Unity Package Manager wrapper is designed for 2018.4 or later, but the core code should work as described below (from the original readme):
