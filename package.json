@@ -1,0 +1,14 @@
+{
+  "name": "com.pixelwizards.naughtyattributes",
+  "displayName": "PixelWizards - Naughty Attributes",
+  "version": "0.1.0-preview.1",
+  "unity": "2018.4",
+  "description": "Collection of useful attributes for decorating your code to make nicer inpectors etc - from: https://github.com/PixelWizards/NaughtyAttributes",
+  "author": {
+    "name": "Pixel Wizards",
+    "email": "support@gamedev.ca",
+    "url": "https://github.com/PixelWizards/com.pixelwizards.naughyattributes"
+  },
+  "keywords": [],
+  "dependencies": {}
+}

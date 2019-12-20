@@ -1,0 +1,17 @@
+{
+    "name": "NaughtyAttributes.Editor",
+    "references": [
+        "GUID:a04798f38b4a4a9aba867f87af56cd34"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

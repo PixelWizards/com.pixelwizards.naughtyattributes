@@ -1,0 +1,15 @@
+{
+    "name": "NaughtyAttributes.Samples",
+    "references": [
+        "GUID:a04798f38b4a4a9aba867f87af56cd34"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
